@@ -1,0 +1,10 @@
+script {
+display: none;
+}
+<head>
+    <style type="text/css">
+    selector {
+        property: value;
+    }
+    </style>
+</head>
